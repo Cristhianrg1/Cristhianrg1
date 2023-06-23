@@ -25,7 +25,3 @@ I am passionate about data and specialize in data analysis and data engineering.
 
 ## Interests and Goals
 I am passionate about continuous learning and staying updated on the latest trends in Data Science. My current goal is to expand my knowledge in machine learning and deep learning to develop more advanced predictive models.
-
-
-## Contact
-- LinkedIn: www.linkedin.com/in/cristhianrg-ds
