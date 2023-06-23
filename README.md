@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Cristhian Rodriguez👋
 
 <!--
 **Cristhianrg1/Cristhianrg1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
